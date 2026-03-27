@@ -89,12 +89,12 @@ Ignored from git by default:
 
 This keeps the repo light. Share large checkpoints/videos via GitHub Releases or external storage.
 
-## README media (GIF)
+## Example (GIF)
 
-Once you export a highlight GIF (for example `assets/preview.gif`), add:
+A trained car going around Interlagos.
 
 ```md
-![Training preview](assets/preview.gif)
+![Training preview](assets/interlagos.gif)
 ```
 
-Tip: keep GIFs short (5–10s) for fast page load.
+
