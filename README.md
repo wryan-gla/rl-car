@@ -94,7 +94,7 @@ This keeps the repo light. Share large checkpoints/videos via GitHub Releases or
 A trained car going around Interlagos.
 
 ```md
-![Training preview](assets/interlagos.gif)
+[Training preview](assets/interlagos.gif)
 ```
 
 
