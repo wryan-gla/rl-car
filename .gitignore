@@ -1,0 +1,34 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Training artifacts
+checkpoint.pt
+replays/
+*.tmp
+*.log
+
+# Optional media exports
+videos/
+
+# OS files
+.DS_Store
+Thumbs.db
