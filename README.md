@@ -80,15 +80,6 @@ python replay.py --dir replays --lap 1
 - `train.py`: rollout + PPO training loop + recorder
 - `replay.py`: offline lap playback viewer
 
-## Artifacts
-
-Ignored from git by default:
-- `checkpoint.pt`
-- `replays/`
-- `videos/`
-
-This keeps the repo light. Share large checkpoints/videos via GitHub Releases or external storage.
-
 ## Example (GIF)
 
 A trained car going around Interlagos.
